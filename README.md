@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m aspiring to be a business analyst/ data analyst 
+- 👀 I’m aspiring to be a data analyst
 - 🌱 I’m currently learning excel, SQL,python and power bi software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/omar-siddiq-ba411b215/
