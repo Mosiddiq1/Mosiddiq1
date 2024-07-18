@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Omar
 - 👀 I’m aspiring to be a data analyst
-- 🌱 I’m currently learning excel, SQL,python and power bi software.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm excellent in using excel, SQL,python and power bi. 
 - 📫 How to reach me https://www.linkedin.com/in/omar-siddiq-ba411b215/
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I play league football 
 
 <!---
