@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Omar
-- 👀 I’m aspiring to be a data analyst
+- 👀 A data analyst
 - 🌱 I'm excellent in using excel, SQL,python and power bi. 
 - 📫 How to reach me https://www.linkedin.com/in/omar-siddiq-ba411b215/
-- ⚡ Fun fact: I play league football 
+- ⚡ Fun fact: I'm studying arabic  
 
 <!---
 Mosiddiq1/Mosiddiq1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
